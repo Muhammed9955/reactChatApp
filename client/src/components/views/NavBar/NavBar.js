@@ -43,7 +43,7 @@ function NavBar() {
           <Icon type="align-right" />
         </Button>
         <Drawer
-          title="Basic Drawer"
+          title="Let's Talk "
           placement="right"
           className="menu_drawer"
           closable={false}
